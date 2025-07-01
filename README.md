@@ -1,4 +1,4 @@
-# N-Queens Command Line Tool
+# Queens Game Solver
 
 A command-line tool written in Go to solve the Queens Game (from [LinkedIn](https://www.linkedin.com/showcase/queens-game))
 
